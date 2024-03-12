@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geekfood/static/css/main.d9ebd725.css",
+    "main.js": "/geekfood/static/js/main.c5a77c2f.js",
+    "static/js/453.af66a239.chunk.js": "/geekfood/static/js/453.af66a239.chunk.js",
+    "index.html": "/geekfood/index.html",
+    "main.d9ebd725.css.map": "/geekfood/static/css/main.d9ebd725.css.map",
+    "main.c5a77c2f.js.map": "/geekfood/static/js/main.c5a77c2f.js.map",
+    "453.af66a239.chunk.js.map": "/geekfood/static/js/453.af66a239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ebd725.css",
+    "static/js/main.c5a77c2f.js"
+  ]
+}
