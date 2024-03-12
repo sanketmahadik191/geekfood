@@ -1,0 +1,69 @@
+
+.hero{
+    max-width: 100%;
+}
+
+.hero img{
+    width: 100%; /* Make the image fill the entire width of its container */
+    height: auto; 
+    max-height: 100vh;
+    background-size: cover;
+}
+
+.heroHeading{
+    color: rgb(240, 0, 0);
+    font-weight: 700;
+    text-shadow: 1px 1px 2px white;
+}
+
+.content {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+  }
+  
+  .content h1,
+  .content p,
+  .content button {
+    margin: 10px;
+  }
+
+.content h1{
+    font-size: 80px;
+}
+
+  .content p{
+    font-size: 30px;
+  }
+
+  @media screen and (max-width: 1000px) {
+   
+    .content h1{
+        font-size: 40px;
+    }
+    
+      .content p{
+        font-size: 20px;
+      }
+    }
+
+    @media screen and (max-width: 750px) {
+        .content{
+            top:30%;
+        }
+      
+        .hero img{
+            visibility: hidden;
+        }
+        .content h1{
+            font-size: 40px;
+        }
+        
+        .content p{
+            font-size: 20px;
+            color: black;
+          }
+     }
