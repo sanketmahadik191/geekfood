@@ -11,10 +11,10 @@ const Navbar =() =>{
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="https://sanketmahadik191.github.io/geekfood/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Quote</a>
+          <a class="nav-link active" aria-current="page" href="https://sanketmahadik191.github.io/geekfood-quote/">Quote</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Resturants</a>
